@@ -1,0 +1,6 @@
+{
+  "task_id": "monitor_001",
+  "instruction": "找到价格不超过1000元、评分至少4.6、支持次日达的显示器，并加入购物车。购物车中只保留这一件商品。",
+  "constraints": { "category": "monitor", "max_price": 1000, "min_rating": 4.6, "delivery": "next_day" },
+  "success_conditions": { "category": "monitor", "max_price": 1000, "min_rating": 4.6, "delivery": "next_day", "cart_quantity": 1 }
+}

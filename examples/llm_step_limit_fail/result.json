@@ -1,0 +1,21 @@
+{
+  "task_id": "keyboard_001",
+  "agent": "llm",
+  "model": "qwen3.5-flash",
+  "status": "FAIL",
+  "max_steps": 1,
+  "reasons": [
+    "cart_empty",
+    "cart_quantity_failed",
+    "runner_error"
+  ],
+  "steps": 1,
+  "final_products": [],
+  "final_cart": [],
+  "visible_cart": [],
+  "runtime_error": "step_limit_exceeded",
+  "page_errors": [],
+  "catalog_sha256": "1c2a34f3627a227634446c1c9f57409bb164ccc8b8c458a9c90387739a5978e7",
+  "trajectory": "trajectory.json",
+  "timestamp": "2026-09-29T00:54:45.332Z"
+}

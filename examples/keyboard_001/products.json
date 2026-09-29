@@ -1,0 +1,247 @@
+[
+  {
+    "id": "product_01",
+    "name": "原野 K68 机械键盘",
+    "category": "mechanical_keyboard",
+    "price": 399,
+    "rating": 4.7,
+    "delivery": "next_day",
+    "specifications": {
+      "轴体": "红轴",
+      "连接": "USB-C",
+      "布局": "紧凑布局"
+    }
+  },
+  {
+    "id": "product_02",
+    "name": "岩石 K87 机械键盘",
+    "category": "mechanical_keyboard",
+    "price": 529,
+    "rating": 4.8,
+    "delivery": "next_day",
+    "specifications": {
+      "轴体": "红轴",
+      "连接": "USB-C",
+      "布局": "紧凑布局"
+    }
+  },
+  {
+    "id": "product_03",
+    "name": "薄雾 K75 机械键盘",
+    "category": "mechanical_keyboard",
+    "price": 299,
+    "rating": 4.3,
+    "delivery": "next_day",
+    "specifications": {
+      "轴体": "红轴",
+      "连接": "USB-C",
+      "布局": "紧凑布局"
+    }
+  },
+  {
+    "id": "product_04",
+    "name": "松木 K98 机械键盘",
+    "category": "mechanical_keyboard",
+    "price": 459,
+    "rating": 4.8,
+    "delivery": "standard",
+    "specifications": {
+      "轴体": "红轴",
+      "连接": "USB-C",
+      "布局": "紧凑布局"
+    }
+  },
+  {
+    "id": "product_05",
+    "name": "边界 K84 机械键盘",
+    "category": "mechanical_keyboard",
+    "price": 500,
+    "rating": 4.5,
+    "delivery": "next_day",
+    "specifications": {
+      "轴体": "红轴",
+      "连接": "USB-C",
+      "布局": "紧凑布局"
+    }
+  },
+  {
+    "id": "product_06",
+    "name": "轻羽 M1 鼠标",
+    "category": "mouse",
+    "price": 129,
+    "rating": 4.6,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "无线",
+      "灵敏度": "3200 DPI"
+    }
+  },
+  {
+    "id": "product_07",
+    "name": "静默 M2 鼠标",
+    "category": "mouse",
+    "price": 199,
+    "rating": 4.8,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "无线",
+      "灵敏度": "3200 DPI"
+    }
+  },
+  {
+    "id": "product_08",
+    "name": "疾风 M3 鼠标",
+    "category": "mouse",
+    "price": 249,
+    "rating": 4.9,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "无线",
+      "灵敏度": "3200 DPI"
+    }
+  },
+  {
+    "id": "product_09",
+    "name": "弧线 M4 鼠标",
+    "category": "mouse",
+    "price": 159,
+    "rating": 4.3,
+    "delivery": "standard",
+    "specifications": {
+      "连接": "无线",
+      "灵敏度": "3200 DPI"
+    }
+  },
+  {
+    "id": "product_10",
+    "name": "拾光 M5 鼠标",
+    "category": "mouse",
+    "price": 99,
+    "rating": 4.5,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "无线",
+      "灵敏度": "3200 DPI"
+    }
+  },
+  {
+    "id": "product_11",
+    "name": "回声 H1 耳机",
+    "category": "headphones",
+    "price": 299,
+    "rating": 4.6,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "蓝牙",
+      "续航": "30小时"
+    }
+  },
+  {
+    "id": "product_12",
+    "name": "漫步 H2 耳机",
+    "category": "headphones",
+    "price": 399,
+    "rating": 4.8,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "蓝牙",
+      "续航": "30小时"
+    }
+  },
+  {
+    "id": "product_13",
+    "name": "静听 H3 耳机",
+    "category": "headphones",
+    "price": 599,
+    "rating": 4.9,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "蓝牙",
+      "续航": "30小时"
+    }
+  },
+  {
+    "id": "product_14",
+    "name": "云朵 H4 耳机",
+    "category": "headphones",
+    "price": 249,
+    "rating": 4.2,
+    "delivery": "standard",
+    "specifications": {
+      "连接": "蓝牙",
+      "续航": "30小时"
+    }
+  },
+  {
+    "id": "product_15",
+    "name": "远山 H5 耳机",
+    "category": "headphones",
+    "price": 349,
+    "rating": 4.7,
+    "delivery": "next_day",
+    "specifications": {
+      "连接": "蓝牙",
+      "续航": "30小时"
+    }
+  },
+  {
+    "id": "product_16",
+    "name": "明窗 D24 显示器",
+    "category": "monitor",
+    "price": 899,
+    "rating": 4.5,
+    "delivery": "next_day",
+    "specifications": {
+      "分辨率": "2560×1440",
+      "刷新率": "100Hz"
+    }
+  },
+  {
+    "id": "product_17",
+    "name": "远景 D27 显示器",
+    "category": "monitor",
+    "price": 1199,
+    "rating": 4.8,
+    "delivery": "next_day",
+    "specifications": {
+      "分辨率": "2560×1440",
+      "刷新率": "100Hz"
+    }
+  },
+  {
+    "id": "product_18",
+    "name": "视野 D32 显示器",
+    "category": "monitor",
+    "price": 1599,
+    "rating": 4.9,
+    "delivery": "next_day",
+    "specifications": {
+      "分辨率": "2560×1440",
+      "刷新率": "100Hz"
+    }
+  },
+  {
+    "id": "product_19",
+    "name": "方寸 D24 显示器",
+    "category": "monitor",
+    "price": 799,
+    "rating": 4.2,
+    "delivery": "standard",
+    "specifications": {
+      "分辨率": "2560×1440",
+      "刷新率": "100Hz"
+    }
+  },
+  {
+    "id": "product_20",
+    "name": "澄净 D27 显示器",
+    "category": "monitor",
+    "price": 999,
+    "rating": 4.6,
+    "delivery": "next_day",
+    "specifications": {
+      "分辨率": "2560×1440",
+      "刷新率": "100Hz"
+    }
+  }
+]

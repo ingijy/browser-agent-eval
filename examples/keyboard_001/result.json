@@ -1,0 +1,29 @@
+{
+  "task_id": "keyboard_001",
+  "agent": "rule-based-baseline",
+  "model": null,
+  "status": "PASS",
+  "max_steps": 20,
+  "reasons": [],
+  "steps": 8,
+  "final_products": [
+    "product_01"
+  ],
+  "final_cart": [
+    {
+      "product_id": "product_01",
+      "quantity": 1
+    }
+  ],
+  "visible_cart": [
+    {
+      "product_id": "product_01",
+      "quantity": 1
+    }
+  ],
+  "runtime_error": null,
+  "page_errors": [],
+  "catalog_sha256": "1c2a34f3627a227634446c1c9f57409bb164ccc8b8c458a9c90387739a5978e7",
+  "trajectory": "trajectory.json",
+  "timestamp": "2026-09-29T01:56:43.401Z"
+}

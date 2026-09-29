@@ -1,0 +1,6 @@
+{
+  "task_id": "keyboard_001",
+  "instruction": "找到价格不超过500元、评分至少4.5、支持次日达的机械键盘，并加入购物车。购物车中只保留这一件商品。",
+  "constraints": { "category": "mechanical_keyboard", "max_price": 500, "min_rating": 4.5, "delivery": "next_day" },
+  "success_conditions": { "category": "mechanical_keyboard", "max_price": 500, "min_rating": 4.5, "delivery": "next_day", "cart_quantity": 1 }
+}

@@ -1,0 +1,6 @@
+{
+  "task_id": "headphones_001",
+  "instruction": "找到价格不超过400元、评分至少4.7、支持次日达的耳机，并加入购物车。购物车中只保留这一件商品。",
+  "constraints": { "category": "headphones", "max_price": 400, "min_rating": 4.7, "delivery": "next_day" },
+  "success_conditions": { "category": "headphones", "max_price": 400, "min_rating": 4.7, "delivery": "next_day", "cart_quantity": 1 }
+}

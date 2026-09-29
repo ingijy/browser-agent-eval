@@ -1,0 +1,16 @@
+{
+  "name": "browser-agent-shopping-benchmark",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20.12" },
+  "scripts": {
+    "start": "node src/server.js",
+    "eval": "node src/runner.js",
+    "eval:all": "node src/runner.js --all",
+    "eval:llm": "node src/llm-runner.js",
+    "verify:run": "node src/verify-run.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": { "playwright": "1.58.2" }
+}
