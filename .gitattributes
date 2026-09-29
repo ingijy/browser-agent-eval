@@ -1,0 +1,3 @@
+# Catalog SHA-256 values describe exact bytes, including line endings.
+data/products.json -text
+examples/**/products.json -text
